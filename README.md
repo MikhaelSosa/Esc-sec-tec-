@@ -29,100 +29,100 @@ Artes Decorativas
 <FONT COLOR="FF0000">
 <TABLE BORDER=10>
 <FONT COLOR="996600">
-<TH><FONT COLOR="FFFFFF">Persona</FONT COLOR="000080">
-<TH><FONT COLOR="FFFFFF">Cargo o Materia
-<TH><FONT COLOR="FFFFFF"> Años de servicio
+<TH><FONT COLOR="000000">Persona</FONT COLOR="000080">
+<TH><FONT COLOR="000000">Cargo o Materia
+<TH><FONT COLOR="000000"> Años de servicio
 <TR>
-<TH><FONT COLOR="FFFFFF">Maria Escobar
-<TH><FONT COLOR="FFFFFF">Directora General
+<TH><FONT COLOR="000000">Maria Escobar
+<TH><FONT COLOR="000000">Directora General
 <TH>
 <TR>
-<TH><FONT COLOR="FFFFFF">Tania Espinoza
-<TH><FONT COLOR="FFFFFF"> Subdirectora academica
-<TH><FONT COLOR="FFFFFF"> 9 
+<TH><FONT COLOR="000000">Tania Espinoza
+<TH><FONT COLOR="000000"> Subdirectora academica
+<TH><FONT COLOR="000000"> 9 
 <TR>
-<TH><FONT COLOR="FFFFFF">Carlos Acles
-<TH> <FONT COLOR="FFFFFF">Subdirector de gestión
-<TH> <FONT COLOR="FFFFFF">3 
+<TH><FONT COLOR="000000">Carlos Acles
+<TH> <FONT COLOR="000000">Subdirector de gestión
+<TH> <FONT COLOR="000000">3 
 <TR>
-<TH><FONT COLOR="FFFFFF">Ricardo Morales
-<TH><FONT COLOR="FFFFFF"> Coordinador
-<TH><FONT COLOR="FFFFFF">9
+<TH><FONT COLOR="000000">Ricardo Morales
+<TH><FONT COLOR="000000"> Coordinador
+<TH><FONT COLOR="000000">9
 <TR>
-<TH><FONT COLOR="FFFFFF">Gilberto Aviña
-<TH><FONT COLOR="FFFFFF">Trabajador Social
+<TH><FONT COLOR="000000">Gilberto Aviña
+<TH><FONT COLOR="000000">Trabajador Social
 <TH>
 <TR>
-<TH><FONT COLOR="FFFFFF">Dario Ventura
-<TH><FONT COLOR="FFFFFF">Coordinador de TIC´s
-<TH><FONT COLOR="FFFFFF"> 8 Meses
+<TH><FONT COLOR="000000">Dario Ventura
+<TH><FONT COLOR="000000">Coordinador de TIC´s
+<TH><FONT COLOR="000000"> 8 Meses
 <TR>
-<TH><FONT COLOR="FFFFFF">Joaquin Boibin
-<TH><FONT COLOR="FFFFFF">Prefecto
+<TH><FONT COLOR="000000">Joaquin Boibin
+<TH><FONT COLOR="000000">Prefecto
 FFFFFF<TR>
-<TH><FONT COLOR="FFFFFF">Esmeralda Palacios
-<TH><FONT COLOR="FFFFFF">Prefecta
-<TH><FONT COLOR="FFFFFF">8
+<TH><FONT COLOR="000000">Esmeralda Palacios
+<TH><FONT COLOR="000000">Prefecta
+<TH><FONT COLOR="000000">8
 <TR>
-<TH> <FONT COLOR="FFFFFF">Guadalupe 
-<TH> <FONT COLOR="FFFFFF">Prefecta
-<TH><FONT COLOR="FFFFFF">3
+<TH> <FONT COLOR="000000">Guadalupe 
+<TH> <FONT COLOR="000000">Prefecta
+<TH><FONT COLOR="000000">3
 <TR>
-<TH><FONT COLOR="FFFFFF">Marta Monzalvo
-<TH><FONT COLOR="FFFFFF">Diseño Industrial
-<TH><FONT COLOR="FFFFFF">15
+<TH><FONT COLOR="000000">Marta Monzalvo
+<TH><FONT COLOR="000000">Diseño Industrial
+<TH><FONT COLOR="000000">15
 <TR>
-<TH><FONT COLOR="FFFFFF">Mario Herrera
-<TH><FONT COLOR="FFFFFF">Diseño Arquitectonico/Matemáticas
-<TH><FONT COLOR="FFFFFF">28
+<TH><FONT COLOR="000000">Mario Herrera
+<TH><FONT COLOR="000000">Diseño Arquitectonico/Matemáticas
+<TH><FONT COLOR="000000">28
 <TR>
-<TH><FONT COLOR="FFFFFF">Arturo Castro
-<TH><FONT COLOR="FFFFFF">Informatica/Robotica/Vida saludable
-<TH><FONT COLOR="FFFFFF">18
+<TH><FONT COLOR="000000">Arturo Castro
+<TH><FONT COLOR="000000">Informatica/Robotica/Vida saludable
+<TH><FONT COLOR="000000">18
 <TR>
-<TH><FONT COLOR="FFFFFF">Octavio Sanchez
-<TH><FONT COLOR="FFFFFF">Diseño Grafico
-<TH><FONT COLOR="FFFFFF">8
+<TH><FONT COLOR="000000">Octavio Sanchez
+<TH><FONT COLOR="000000">Diseño Grafico
+<TH><FONT COLOR="000000">8
 <TR>
-<TH><FONT COLOR="FFFFFF">Jesus Juarez
-<TH><FONT COLOR="FFFFFF">Carpintería/Dibujo Tec
-<TH><FONT COLOR="FFFFFF">36
+<TH><FONT COLOR="000000">Jesus Juarez
+<TH><FONT COLOR="000000">Carpintería/Dibujo Tec
+<TH><FONT COLOR="000000">36
 <TR>
-<TH><FONT COLOR="FFFFFF">Maria Quevedo
-<TH><FONT COLOR="FFFFFF">Diseño Arquitectonico/Matemáticas
+<TH><FONT COLOR="000000">Maria Quevedo
+<TH><FONT COLOR="000000">Diseño Arquitectonico/Matemáticas
 <TH>
 <TR>
-<TH><FONT COLOR="FFFFFF">Clemente Barraza
-<TH><FONT COLOR="FFFFFF">Diseño Grafico/Tutoria/Artes
+<TH><FONT COLOR="000000">Clemente Barraza
+<TH><FONT COLOR="000000">Diseño Grafico/Tutoria/Artes
 <TH>
 <TR>
-<TH><FONT COLOR="FFFFFF">Xahil Moreno
-<TH><FONT COLOR="FFFFFF">Artes visuales/Diseño Grafico
+<TH><FONT COLOR="000000">Xahil Moreno
+<TH><FONT COLOR="000000">Artes visuales/Diseño Grafico
 <TH>
 <TR>
-<TH><FONT COLOR="FFFFFF">Omar Méndez
-<TH><FONT COLOR="FFFFFF">Biología/Química/Tutoría/curricular
+<TH><FONT COLOR="000000">Omar Méndez
+<TH><FONT COLOR="000000">Biología/Química/Tutoría/curricular
 <TH>
 <TR>
-<TH><FONT COLOR="FFFFFF">Lorena Martinez
-<TH><FONT COLOR="FFFFFF">Física/Tutoría/Curricular
-<TH><FONT COLOR="FFFFFF">9
+<TH><FONT COLOR="000000">Lorena Martinez
+<TH><FONT COLOR="000000">Física/Tutoría/Curricular
+<TH><FONT COLOR="000000">9
 <TR>
-<TH><FONT COLOR="FFFFFF">Alejandro Vertti
-<TH><FONT COLOR="FFFFFF">Inglés
-<TH><FONT COLOR="FFFFFF">31
+<TH><FONT COLOR="000000">Alejandro Vertti
+<TH><FONT COLOR="000000">Inglés
+<TH><FONT COLOR="000000">31
 <TR>
-<TH><FONT COLOR="FFFFFF">Daniel May
-<TH><FONT COLOR="FFFFFF">Inglés/Artes/Curricular/Tutoría
-<TH><FONT COLOR="FFFFFF">16
+<TH><FONT COLOR="000000">Daniel May
+<TH><FONT COLOR="000000">Inglés/Artes/Curricular/Tutoría
+<TH><FONT COLOR="000000">16
 <TR>
-<TH><FONT COLOR="FFFFFF">Fabiola Cabrera
-<TH><FONT COLOR="FFFFFF">Matemáticas
+<TH><FONT COLOR="000000">Fabiola Cabrera
+<TH><FONT COLOR="000000">Matemáticas
 <TH>
 <TR>
-<TH><FONT COLOR="FFFFFF">Alejandro Frías
-<TH><FONT COLOR="FFFFFF">Español/Cívica
-<TH><FONT COLOR="FFFFFF">22
+<TH><FONT COLOR="000000">Alejandro Frías
+<TH><FONT COLOR="000000">Español/Cívica
+<TH><FONT COLOR="000000">22
 <TR>
 <TH><FONT COLOR="000000">Daniel Vaquez
 <TH><FONT COLOR="000000">Español
